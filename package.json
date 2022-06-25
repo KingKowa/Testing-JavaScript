@@ -1,0 +1,23 @@
+{
+  "name": "testing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingKowa/Testing-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingKowa/Testing-JavaScript/issues"
+  },
+  "homepage": "https://github.com/KingKowa/Testing-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
